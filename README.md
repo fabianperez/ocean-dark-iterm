@@ -18,7 +18,7 @@ Check out <https://github.com/mdo/ocean-terminal> for a Terminal.app version.
 
 ## Usage
 
-1. Download this repo.
+1. Clone this repo.
 2. Open up iTerm, go to **Preferences**, then **Profiles**.
 3. Select the **Colors** tab, then open the **Load Presets** dropdown and select the **Import** option. Navigate to the `.itermcolors` file and open it.
 4. Lastly, set it as your default by selecting the new profile, clicking **Other Actions** in the bottom left and then selecting **Set as Default**.
