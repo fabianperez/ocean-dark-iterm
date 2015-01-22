@@ -1,8 +1,8 @@
 # Ocean theme for iTerm.app
 
-This is an iTerm.app theme for OS X based on the [base16 Ocean theme](http://chriskempson.github.io/base16/#ocean) and adapted from @mdo's [Terminal.app version](https://github.com/mdo/ocean-terminal).
-
 ![](https://cloud.githubusercontent.com/assets/143418/5851394/6d8c94b0-a1bb-11e4-8a17-04701f9bb7da.png)
+
+This is an iTerm.app theme for OS X based on the [base16 Ocean theme](http://chriskempson.github.io/base16/#ocean) and adapted from @mdo's [Terminal.app version](https://github.com/mdo/ocean-terminal).
 
 A little about base16:
 
