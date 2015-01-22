@@ -2,6 +2,8 @@
 
 This is an iTerm.app theme for OS X based on the [base16 Ocean theme](http://chriskempson.github.io/base16/#ocean) and adapted from @mdo's [Terminal.app version](https://github.com/mdo/ocean-terminal).
 
+![](https://cloud.githubusercontent.com/assets/143418/5851394/6d8c94b0-a1bb-11e4-8a17-04701f9bb7da.png)
+
 A little about base16:
 
 > Base16 provides carefully chosen syntax highlighting and a default set of sixteen colors suitable for a wide range of applications.
